@@ -11,7 +11,7 @@ Giphy Api is a simple application for viewing gifs
 
 ## View of the screens
 
-![ezgif com-resize](https://github.com/Vitalina-V/GiphyApp/assets/113260060/53f08c81-66a7-4596-ba81-24f2a56c9d67)
+![Uploading ezgif.com-resize.gif…]()
 
 
 ## How to run the app
